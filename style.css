@@ -1,0 +1,24 @@
+body {
+  background: seashell;
+}
+body .navbar .navbar-item {
+  padding: 10px;
+}
+body .navbar .navbar-item a {
+  color: white;
+}
+body .main {
+  margin: 100px;
+}
+body .main ul {
+  list-style: none;
+}
+body .card .card-img-top {
+  width: 33vh;
+  align-self: center;
+}
+body .fixed-bottom {
+  height: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */

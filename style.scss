@@ -1,0 +1,42 @@
+body
+{
+    background: seashell;
+    
+    .navbar
+    {
+     
+        .navbar-item
+        {
+            padding: 10px;
+            a
+            {
+                color: white;
+            }
+        }
+    }
+    .main
+    {
+        margin: 100px;
+      
+            ul
+            {
+                list-style: none;
+            }
+        }
+
+    
+    .card
+    {
+        .card-img-top
+        {
+            width: 33vh;
+            align-self: center;
+        }
+    }
+
+    .fixed-bottom
+    {
+        height: 100px;
+    
+    }
+}
